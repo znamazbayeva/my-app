@@ -1,3 +1,13 @@
+Tools:
+  * React js
+  * Redux
+  * Axios
+  * Uses https://thronesapi.com/api/v1/Characters API
+
+Website have 2 simple functions:
+  * Show random charachter from Games of Thrones
+  * When clicked on the one of the characters in list, show information about it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
